@@ -74,8 +74,9 @@
   }
 
   /* 添付文書（展開前の紙。支給画像） */
-  .paper{display:block;width:var(--pw);line-height:0;filter:drop-shadow(0 8px 18px rgba(0,0,0,.14))}
-  .paper img{display:block;width:100%;height:auto}
+  /* 影は box-shadow で。filter:drop-shadow だと iOS Safari が開封アニメ中に矩形の影を焼き付け、ズームまで残る */
+  .paper{display:block;width:var(--pw);line-height:0}
+  .paper img{display:block;width:100%;height:auto;box-shadow:0 8px 18px rgba(0,0,0,.14);transition:box-shadow .25s}
 
   /* ◀ PACKAGE ／ MORE ▶: 添付文書の下に左右振り分け（指示書 9/9 の画面例）。
      級数は錠剤シート上の「MENU」と同じ = シート幅 × 0.106（blister.jpg 実測: キャップハイト 52px/682px ÷ 0.72） */
@@ -87,8 +88,7 @@
   }
   @media (hover:hover){
     .more:hover,.pkgbtn:hover{opacity:.5}
-    .paper{transition:filter .25s}
-    .paper:hover{filter:drop-shadow(0 14px 30px rgba(0,0,0,.22))}
+    .paper:hover img{box-shadow:0 14px 30px rgba(0,0,0,.22)}
   }
 
   /* 背の低いスマホ（SE 等）: 全体を少し縮めて MORE / PACKAGE が箱に隠れないようにする */
