@@ -439,13 +439,15 @@
           "updated": "2026-09-21T12:40:51"
         },
         {
-          "title": "Dos Monos Secret Party 3.5",
+          "title": "Dos Monos Theater D Vol.3.5",
           "sub": "",
           "date": "2023",
           "text": "",
-          "images": [],
-          "link": "",
-          "updated": "2026-09-21T12:40:51"
+          "images": [
+            "img/1790156023119-0.jpeg"
+          ],
+          "link": "https://www.instagram.com/p/Cm_oCx1y20e/?stkn=MXRxZHNndjNwdHdqaw==",
+          "updated": "2026-09-23T09:33:43"
         },
         {
           "title": "Sleep Development Goalz F/W 22",
