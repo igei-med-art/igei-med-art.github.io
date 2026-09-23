@@ -238,7 +238,7 @@
       ]
     },
     "commission": {
-      "summary": "▶︎University of Tsukuba Night 2026 (2026, 筑波大学)\n▶︎Shimada Patents Corporation (2025)\n▶︎十/奇奇怪怪 : Tai Tan, 魚豊, 佐伯ポインティ (2025)\n▶︎...",
+      "summary": "▶︎IGEI Inc. HP (2026)\n▶︎University of Tsukuba Night 2026 (2026, 筑波大学)\n▶︎ 『十』(魚豊 + 佐伯ポインティ + Tai Tan)  (2025)\n▶︎...",
       "articles": [
         {
           "title": "IGEI Inc. HP",
@@ -250,40 +250,48 @@
           "updated": "2026-09-21T12:51:33"
         },
         {
-          "title": "University of Tsukuba Night 2026",
-          "sub": "",
+          "title": "University of Tsukuba Night 2026 (筑波大学)",
+          "sub": "KV design",
           "date": "2026",
-          "text": "",
-          "images": [],
-          "link": "",
-          "updated": "2026-09-21T12:51:33"
+          "text": "\"UNIVERSITY OF TSUKUBA NIGHT 2026 / Healthcare Innovation Through Academia Industry Collaboration\"\n主催 : 筑波大学 / 後援 : 在ボストン日本国総領事館 / 支援 : 国立研究開発法人日本医療研究開発機構（AMED）/ \nDETAIL:\nhttps://www.tsukuba.ac.jp/news/20260914113044.html",
+          "images": [
+            "img/1790170625642-0.jpeg"
+          ],
+          "link": "https://community.venturecafecambridge.org/events/1339?lang=ja",
+          "updated": "2026-09-23T13:37:05"
         },
         {
           "title": "陣内ウィメンズクリニック",
-          "sub": "",
+          "sub": "Logo design",
           "date": "2025",
           "text": "",
-          "images": [],
+          "images": [
+            "img/1790170628190-1.jpeg"
+          ],
           "link": "",
-          "updated": "2026-09-21T12:51:33"
+          "updated": "2026-09-23T13:37:05"
         },
         {
-          "title": "Shimada Patents corporation ",
+          "title": "Shimada Patents Corporation ",
           "sub": "",
           "date": "2025",
           "text": "",
-          "images": [],
+          "images": [
+            "img/1790170630212-2.jpeg"
+          ],
           "link": "",
-          "updated": "2026-09-21T12:51:33"
+          "updated": "2026-09-23T13:37:05"
         },
         {
           "title": "『十』(魚豊 + 佐伯ポインティ + Tai Tan) ",
           "sub": "KV, Logo, Merch design",
           "date": "2025",
           "text": "",
-          "images": [],
+          "images": [
+            "img/1790170633066-3.jpeg"
+          ],
           "link": "",
-          "updated": "2026-09-23T13:10:34"
+          "updated": "2026-09-23T13:37:05"
         },
         {
           "title": "TBS PODCAST 「虚史平成」",
