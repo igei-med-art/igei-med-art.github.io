@@ -377,111 +377,113 @@
         },
         {
           "title": "TBS PODCAST 「虚史平成」",
-          "sub": "",
+          "sub": "Cover Artwork",
           "date": "2023",
           "text": "",
-          "images": [],
+          "images": [
+            "img/1790166795163-0.jpeg"
+          ],
           "link": "",
-          "updated": "2026-09-21T12:40:51"
+          "updated": "2026-09-23T12:33:15"
         },
         {
-          "title": "Amazon audible 「東京閾値」Cover Artwork",
-          "sub": "",
+          "title": "Amazon audible 「東京閾値」",
+          "sub": "Cover Artwork",
           "date": "2023",
           "text": "",
           "images": [
             "img/1790166500733-0.jpeg"
           ],
           "link": "https://www.tbsradio.jp/tsc/",
-          "updated": "2026-09-23T12:28:20"
+          "updated": "2026-09-23T12:33:15"
         },
         {
           "title": "Sleep Development Goalz F/W 23",
-          "sub": "",
+          "sub": "Art direction, Graphic design",
           "date": "2023",
           "text": "",
           "images": [
             "img/1790166326604-0.jpeg"
           ],
           "link": "",
-          "updated": "2026-09-23T12:25:26"
+          "updated": "2026-09-23T12:33:15"
         },
         {
-          "title": "Podcast「本もらった / 岸裕真」Cover Artwork",
-          "sub": "",
+          "title": "Podcast「本もらった / 岸裕真」",
+          "sub": "Cover Artwork",
           "date": "2023",
           "text": "",
           "images": [
             "img/1790164493328-0.jpeg"
           ],
           "link": "https://open.spotify.com/show/42PJsgBzd4Kz2K2iEy1rfT?si=1pkdoImvQJ-bk81SMyx7nQ&utm_source=copy-link",
-          "updated": "2026-09-23T11:55:58"
+          "updated": "2026-09-23T12:33:15"
         },
         {
           "title": "sdgz popup in Nagoya / JR Takashimaya Gate Tower Mall",
-          "sub": "",
+          "sub": "Art direction, Graphic design",
           "date": "2023",
           "text": "",
           "images": [
             "img/1790164339650-0.jpeg"
           ],
           "link": "",
-          "updated": "2026-09-23T11:52:19"
+          "updated": "2026-09-23T12:33:15"
         },
         {
           "title": "Sleep Development Goalz S/S 23",
-          "sub": "",
+          "sub": "Art direction, Graphic design",
           "date": "2023",
           "text": "",
           "images": [
             "img/1790162788769-0.jpeg"
           ],
           "link": "",
-          "updated": "2026-09-23T11:26:28"
+          "updated": "2026-09-23T12:33:15"
         },
         {
           "title": "Sleep Development Goalz POP UP “sdgz.zip” in Daikanyama",
-          "sub": "",
+          "sub": "Art direction, Graphic design",
           "date": "2023",
           "text": "",
           "images": [
             "img/1790156905646-0.jpeg"
           ],
           "link": "",
-          "updated": "2026-09-23T09:48:25"
+          "updated": "2026-09-23T12:33:15"
         },
         {
-          "title": "Dos Monos Theater D Vol.3.5",
-          "sub": "",
+          "title": "Dos Monos Theater D Vol.3 ",
+          "sub": "KV, Merch",
           "date": "2023",
           "text": "",
           "images": [
             "img/1790156023119-0.jpeg"
           ],
           "link": "https://www.instagram.com/p/Cm_oCx1y20e/?stkn=MXRxZHNndjNwdHdqaw==",
-          "updated": "2026-09-23T09:33:43"
+          "updated": "2026-09-23T12:33:15"
         },
         {
           "title": "Sleep Development Goalz F/W 22",
-          "sub": "",
+          "sub": "Art direction, Graphic design",
           "date": "2022",
           "text": "",
           "images": [
             "img/1790155741421-0.jpeg"
           ],
           "link": "",
-          "updated": "2026-09-23T09:29:01"
+          "updated": "2026-09-23T12:33:15"
         },
         {
           "title": "Sleep Development Goalz S/S 22",
-          "sub": "",
+          "sub": "Art direction, Graphic design",
           "date": "2022",
           "text": "",
           "images": [
             "img/1790154592568-0.jpeg"
           ],
           "link": "",
-          "updated": "2026-09-23T09:29:01"
+          "updated": "2026-09-23T12:33:15"
         }
       ]
     },
