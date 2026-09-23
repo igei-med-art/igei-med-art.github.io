@@ -325,10 +325,13 @@
           "title": "Dos Monos Theater D Vol.4 (Liquidroom)",
           "sub": "",
           "date": "2024",
-          "text": "",
-          "images": [],
-          "link": "",
-          "updated": "2026-09-23T12:54:24"
+          "text": "Logo / Dos Monos - MOUNTAIN D\nhttps://youtu.be/cqyBD7kZLus?si=gZQZehmIUhay9_gD",
+          "images": [
+            "img/1790168251867-0.jpeg",
+            "img/1790168257288-1.jpeg"
+          ],
+          "link": "https://www.liquidroom.net/schedule/dosmonos_20240615",
+          "updated": "2026-09-23T12:57:31"
         },
         {
           "title": "Dos Monos \"Dos Atomos\" listening party (麻布台ヒルズ)",
