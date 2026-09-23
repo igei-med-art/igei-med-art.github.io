@@ -385,13 +385,15 @@
           "updated": "2026-09-21T12:40:51"
         },
         {
-          "title": "Amazon audible 「東京閾値」",
+          "title": "Amazon audible 「東京閾値」Cover Artwork",
           "sub": "",
           "date": "2023",
           "text": "",
-          "images": [],
-          "link": "",
-          "updated": "2026-09-21T12:40:51"
+          "images": [
+            "img/1790166500733-0.jpeg"
+          ],
+          "link": "https://www.tbsradio.jp/tsc/",
+          "updated": "2026-09-23T12:28:20"
         },
         {
           "title": "Sleep Development Goalz F/W 23",
